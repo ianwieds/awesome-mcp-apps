@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "MCP Apps",
+  "repo": "ianwieds/awesome-mcp-apps",
+  "tagline": "Interactive apps that run inside chat hosts: the MCP Apps extension, MCP-UI, the OpenAI Apps SDK, SDKs, examples and directories.",
+  "scope": "It is about interactive UI that an MCP server or app ships into a chat host, not a plain MCP server.",
+  "accent": "22C55E",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: a chat window on a pedestal sends a message, a pulse runs to an MCP server beside it, and app cards for a map, a cart and a chart rise off the server and dock between the messages."
 }
