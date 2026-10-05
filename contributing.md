@@ -4,13 +4,13 @@ Thanks for helping keep this list useful. Please read these rules before you ope
 
 ## What belongs here
 
-Replace this paragraph with the list's scope: what it covers, and which nearby projects belong only when the topic is central to what they do.
+This list covers interactive UI that an MCP server or app ships into a chat host: the MCP Apps extension, MCP-UI and the OpenAI Apps SDK, the SDKs, UI kits, hosts, tools, templates and examples built for them, published apps, directories and guides. A plain MCP server that only returns text or data does not belong here, and an MCP server, chat client or framework belongs only when rendering or building that UI is central to what it does.
 
 An entry must be:
 
 - **Public:** a repository or page anyone can open without signing in.
 - **Documented:** a README or docs page that explains what it does and how to use it.
-- **Maintained:** for a repository, <!-- awesome:inactive -->not archived and not marked deprecated by its owner<!-- /awesome:inactive -->.
+- **Maintained:** for a repository, <!-- awesome:inactive -->not archived, not marked deprecated by its owner, and with a commit in the last 12 months<!-- /awesome:inactive -->.
 - **Established:** a GitHub project has <!-- awesome:stars -->at least 10 stars<!-- /awesome:stars --> when it is submitted.
 - **Working:** every link resolves.
 
