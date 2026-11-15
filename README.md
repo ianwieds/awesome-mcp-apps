@@ -145,6 +145,8 @@ An MCP App is an interactive view, such as a form, chart, map or editor, that an
 
 ## Directories and lists
 
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) — Live music venue directory, stage accessibility, and booking contacts across all 50 US states ([nostairsplease.com](https://nostairsplease.com/)).
+
 - [Awesome ChatGPT Apps](https://github.com/rdmgator12/awesome-chatgpt-apps) - Categorized directory of the apps in OpenAI's ChatGPT app directory.
 - [Awesome Generative UI](https://github.com/narrowin/awesome-generative-ui) - List of resources for interfaces that AI models compose and render.
 - [Awesome MCP Clients](https://github.com/punkpeye/awesome-mcp-clients) - List of applications that act as MCP clients.
