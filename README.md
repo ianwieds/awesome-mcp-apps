@@ -171,10 +171,10 @@ An MCP App is an interactive view, such as a form, chart, map or editor, that an
 - [OpenAI Apps SDK quickstart](https://developers.openai.com/apps-sdk/quickstart) - OpenAI's step-by-step guide to a first ChatGPT app.
 - [Running Next.js inside ChatGPT](https://vercel.com/blog/running-next-js-inside-chatgpt-a-deep-dive-into-native-app-integration) - Vercel's deep dive on serving a Next.js app as a ChatGPT app.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
